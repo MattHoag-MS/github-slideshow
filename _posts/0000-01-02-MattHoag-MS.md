@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+be **bold** you handsome *italian* 
+
 Use the left arrow to go back!
